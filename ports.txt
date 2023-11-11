@@ -1,0 +1,20 @@
+Place Name	Latitude	Longitude
+South Street Seaport, New York City, NY, USA	40.706322	-74.002640
+Seattle Smith Cove Cruise Terminal 91, Seattle, WA, USA	47.633301	-122.379654
+Port Canaveral, Cape Canaveral, FL, USA	28.410351	-80.618813
+Port NOLA Cruise Ship Terminal, New Orleans, LA, USA	29.944532	-90.061790
+Port Miami Cruise Terminal, Miami, FL, USA	25.778803	-80.177994
+Port Tampa Bay Cruise Ship Terminal, Tampa, FL, USA	27.945423	-82.444099
+Vancouver Cruise Ship Terminal, Vancouver, BC, Canada, USA	49.288826	-123.111122
+Long Beach Cruise Terminal, Long Beach, CA, USA	33.751305	-118.188812
+Jaxport Cruise Terminal, Jacksonville, FL, USA	30.407150	-81.579475
+Port Everglades Cruise Ship Terminal, Fort Lauderdale, FL, USA	26.085421	-80.117775
+Charleston Cruise Ship Terminal, Charleston, SC, USA	32.787441	-79.924698
+Raymond L. Flynn Black Falcon Cruise Terminal, Boston, MD, USA	42.343651	-71.033020
+Port Jersey, Bayonne, NJ, USA	40.664871	-74.072571
+Baltimore Port, Baltimore, MD, USA	39.264969	-76.598633
+Port of Hueneme, Port Hueneme, CA, USA	34.151909	-119.208763
+Navy Pier Terminal, Chicago, IL, USA	41.892654	-87.610168
+Port of Boston, MA, USA	42.364506	-71.038887
+PortMiami, FL, USA	25.778135	-80.179100
+Port of Baltimore, MD, USA	39.286072	-76.609825
